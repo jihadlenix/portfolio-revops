@@ -1,0 +1,8 @@
+{
+  // Static site, no Worker script. Cloudflare serves the repo as assets.
+  "name": "portfolio-revops",
+  "compatibility_date": "2026-10-18",
+  "assets": {
+    "directory": "."
+  }
+}

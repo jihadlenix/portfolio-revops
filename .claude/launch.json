@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "revops",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        ".claude/devserver.py",
+        "5181"
+      ],
+      "port": 5181
+    }
+  ]
+}
